@@ -201,3 +201,8 @@ li {
     transform: translate(0);
   }
 }
+.link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
